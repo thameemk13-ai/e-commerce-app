@@ -7,7 +7,7 @@ export default function ProductDetail() {
 
   const product = products.find(p => p.id == id);
 
-  if (!product) return <p>Loading...</p>;
+  if (!product) return <p>Loading soon...</p>;
 
   return (
     <div>
