@@ -9,7 +9,7 @@ export default function Products() {
         <div key={p.id}>
           <h3>{p.name}</h3>
           <p>{p.price}</p>
-          <Link href={`/products/${p.id}`}>View</Link>
+          <Link href={`/products/${p.id}`}>see</Link>
         </div>
       ))}
     </div>
