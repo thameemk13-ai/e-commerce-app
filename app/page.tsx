@@ -39,7 +39,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   hero: {
     textAlign: "center",
     padding: "80px 20px",
-    background: "#f5f5f5",
+    background: "#c99898ff",
   },
   button: {
     display: "inline-block",
@@ -57,7 +57,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   card: {
     width: "250px",
     padding: "20px",
-    background: "#eee",
+    background: "#dc9b9bff",
     textAlign: "center",
   },
 };
